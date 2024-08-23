@@ -2,25 +2,25 @@
 
 多种风格可选的萌萌计数器
 
-![Moe-Counter](https://count.getloli.com/get/@Moe-counter.github)
+![Moe-Counter](https://api.capiry.com/counte/get/@Kobayashi-classmate?theme=rule34)
 
 <details>
 <summary>More theme</summary>
 
 ##### asoul
-![asoul](https://count.getloli.com/get/@demo?theme=asoul)
+![asoul](https://api.capiry.com/counte/get/@demo?theme=asoul)
 
 ##### moebooru
-![moebooru](https://count.getloli.com/get/@demo?theme=moebooru)
+![moebooru](https://api.capiry.com/counte/get/@demo?theme=moebooru)
 
 ##### rule34
-![Rule34](https://count.getloli.com/get/@demo?theme=rule34)
+![Rule34](https://api.capiry.com/counte/get/@demo?theme=rule34)
 
 ##### gelbooru
-![Gelbooru](https://count.getloli.com/get/@demo?theme=gelbooru)</details>
+![Gelbooru](https://api.capiry.com/counte/get/@demo?theme=gelbooru)</details>
 
 ## Demo
-[https://count.getloli.com](https://count.getloli.com)
+[https://api.capiry.com/counte](https://api.capiry.com/counte/get/@demo?theme=asoul)
 
 ## Usage
 
@@ -35,7 +35,7 @@
 #### Deploying on your own server
 
 ```shell
-$ git clone https://github.com/journey-ad/Moe-Counter.git
+$ git clone https://github.com/Kobayashi-classmate/Moe-Counter.git
 $ cd Moe-Counter
 $ yarn install
 
