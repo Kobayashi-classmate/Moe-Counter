@@ -2,7 +2,7 @@
 
 多种风格可选的萌萌计数器
 
-![Moe-Counter](https://api.capiry.com/counte/get/@Kobayashi-classmate?theme=rule34)
+![Moe-Counter](https://api.capiry.com/counte/get/@demo?theme=asoul)
 
 <details>
 <summary>More theme</summary>
@@ -20,7 +20,7 @@
 ![Gelbooru](https://api.capiry.com/counte/get/@demo?theme=gelbooru)</details>
 
 ## Demo
-[https://api.capiry.com/counte](https://api.capiry.com/counte/get/@demo?theme=asoul)
+[https://api.capiry.com/counte](https://api.capiry.com/counte/get/@Kobayashi-classmate?theme=rule34)
 
 ## Usage
 
